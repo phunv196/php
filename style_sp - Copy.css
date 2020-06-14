@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+.container
+{
+	width:600px;
+	height:530px;
+	margin-left:160px;
+	background-color:#9CF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.top
+{
+ 	width:600px;
+	height:70px;
+	background-color:#0CF;
+}
+.texttop
+{
+	color: #FFF;
+	font-size:30px;
+    text-align:center;
+	font-family:"Courier New", Courier, monospace;
+}
+.center
+{
+	width:600px;
+	height:430px;
+	background-color:rgba(255,255,255,0.7);
+}
+.textcenter
+{
+	font-family:"Courier New", Courier, monospace;
+	font-size:18px;
+	color:#09C;
+	float:left;
+	margin-left:50px;
+	margin-top:20px;
+	width:150px;
+	height:20px;
+}
+.inputcenter
+{
+	font-family:"Courier New", Courier, monospace;
+	font-size:18px;
+	margin-top:10px;
+	width:300px;
+	height:30px;
+	
+}
+.selectcenter
+{
+	font-family:"Courier New", Courier, monospace;
+	font-size:18px;
+	margin-top:10px;
+	width:200px;
+	height:30px;
+	
+}
+.textareacenter
+{
+	font-family:"Courier New", Courier, monospace;
+	font-size:18px;
+	margin-top:10px;
+	width:300px;
+	height:50px;
+	
+}
+.submit
+{
+  width:100px;
+  height:30px;
+  background-color:#09F;
+  color:#FFF;
+  margin-top:20px;
+  margin-left:300px;
+}
+.textbottom
+{
+	font-family:"Courier New", Courier, monospace;
+	color:#666;
+	font-size:24px;
+	text-align:center;
+	margin-top:30px;
+}
+
